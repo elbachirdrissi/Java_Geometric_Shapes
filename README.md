@@ -1,18 +1,1 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This Java exercise introduces an abstract class Forme representing geometric shapes, with concrete implementations for rectangles (Rectangle) and circles (Cercle). The abstract class provides common methods for setting coordinates, moving shapes, and defining abstract methods for calculating surface area and perimeter. The Principale class showcases the usage of these classes, creating instances of rectangles and circles and storing them in an ArrayList. This exercise serves as an educational exercise in object-oriented design and abstraction in Java.
